@@ -1,2 +1,3 @@
-# Simple-AR-Proyect
-Using image recognition, a simple AR "game" was created where a ball bounces between different platforms to showcase knowledge of the unity framework.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d426e97eb4ca336c953be843f783fb7347f04e4b3f62802e7455850c6d7d150a
+size 171
